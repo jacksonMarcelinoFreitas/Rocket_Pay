@@ -6,13 +6,13 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 #
 
-<img width=1080 src="https://github.com/jacksonMarcelinoFreitas/Design_System_Ignite_Lab/blob/master/assets/screen-gif.gif"/>
+<img width=1080 src="https://github.com/jacksonMarcelinoFreitas/Rocket_Pay/blob/master/assets/gif_explorer_lab_readme.gif"/>
 
 #
 
 <p align="center">
-    <a style="font-size:32px" href="https://jacksonmarcelinofreitas.github.io/Design_System_Ignite_Lab/" target="blank">
-    👀Click to see the Storybook
+    <a style="font-size:32px" href="https://rocket-pay-liart.vercel.app/" target="blank">
+    👀Click to see the project
     </a>
 </p>
 
