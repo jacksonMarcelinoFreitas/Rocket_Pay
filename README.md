@@ -10,9 +10,9 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 #
 
-<p align="center">
-    <a style="font-size:32px" href="https://rocket-pay-liart.vercel.app/" target="blank">
-    👀Click to see the project
+<p style="align: center">
+    <a href="https://rocket-pay-liart.vercel.app/">
+        <img src="https://github.com/jacksonMarcelinoFreitas/Mentoring_Form/raw/master/Buttom%20to%20see.png" alt="Button to see the project" style="width:250px; align:center">
     </a>
 </p>
 
