@@ -1,4 +1,4 @@
-<img src="https://github.com/jacksonMarcelinoFreitas/Design_System_Ignite_Lab/blob/master/assets/Template%20Readme.png"/>
+<img src="https://github.com/jacksonMarcelinoFreitas/Rocket_Pay/blob/master/assets/capa_readme.png"/>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -37,4 +37,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
-
